@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @oboroworks
 
 - 👀 I’m interested in building minimal, scalable, and efficient software products.
-- 🌱 I’m currently learning more about serverless architectures and advanced container orchestration.
+- 🌱 I’m currently creating FLOSS tools for serverless architectures and advanced container orchestration.
 - 💞️ I’m looking to collaborate on SaaS projects, developer tools, and open-source utilities.
 - 📫 How to reach me: [info@oboroworks.com](mailto:info@oboroworks.com)
 - 🌐 Website: [oboroworks.com](https://oboroworks.com)
